@@ -3,7 +3,7 @@
   <section class="src-componentes-navbar">
       <nav class="navbar navbar-expand-md navbar-dark bg-dark">
 
-        <router-link to="/">
+        <router-link to="/formulario-av">
           <a class="navbar-brand" href="#">Inicio</a>
         </router-link>
         
